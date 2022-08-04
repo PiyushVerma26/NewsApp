@@ -19,9 +19,12 @@ Material Design Components like Card View,Recycle View
 ![Home](https://user-images.githubusercontent.com/82715850/182868664-5fa8e136-fea9-4f98-8ef8-48c72aa0ef62.jpeg)
 ![login](https://user-images.githubusercontent.com/82715850/182868670-8f0255bc-ce8d-437d-b983-57e0ec62a650.jpeg)
 ![logout](https://user-images.githubusercontent.com/82715850/182868674-3784f058-be84-4d9c-8581-4fd85695af9a.jpeg)
-
-
-https://user-images.githubusercontent.com/82715850/182868676-0d49a362-03bc-4a29-b68f-f71fab1698f1.mp4
-
 ![signup](https://user-images.githubusercontent.com/82715850/182868693-b2f2959d-206e-44b3-987e-0bb97e47caf3.jpeg)
 ![description](https://user-images.githubusercontent.com/82715850/182868766-7c857527-dcd1-4a17-bf30-8bf720ca7f45.jpeg)
+
+## AppPreview(Video)  
+
+https://user-images.githubusercontent.com/82715850/182869687-109aa4c1-bace-4500-b7f6-d1a7636a7e90.mp4
+
+
+
