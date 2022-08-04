@@ -15,7 +15,8 @@ Picasso:-Loading Images, Gson:-A modern JSON library for Kotlin and Java.
 Material Design Components like Card View,Recycle View
 
 
-## Application Preview:-![description](https://user-images.githubusercontent.com/82715850/182868650-03568b4c-c974-4745-a131-0eae4262c341.jpeg)
+## Application Preview:-
+![description](https://user-images.githubusercontent.com/82715850/182868650-03568b4c-c974-4745-a131-0eae4262c341.jpeg)
 ![Home](https://user-images.githubusercontent.com/82715850/182868664-5fa8e136-fea9-4f98-8ef8-48c72aa0ef62.jpeg)
 ![login](https://user-images.githubusercontent.com/82715850/182868670-8f0255bc-ce8d-437d-b983-57e0ec62a650.jpeg)
 ![logout](https://user-images.githubusercontent.com/82715850/182868674-3784f058-be84-4d9c-8581-4fd85695af9a.jpeg)
