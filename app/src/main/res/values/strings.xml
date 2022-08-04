@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_app">News App</string>
+    <string name="category">Category</string>
+    <string name="logo">Logo</string>
+    <string name="description">Customers have long suspected iPhone slow down over time.Now,Apple has Confirmed some models do</string>
+    <string name="time">2 hours ago</string>
+    <string name="channel">BBC News</string>
+    <string name="title">Apples admit slowing down older iPhones</string>
+    <string name="content">Content</string>
+    <string name="readMore">Read More About Articles</string>
+    <string name="author">Author</string>
+    <string name="logout">LogOut</string>
+
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="continue_with_facebook">Continue With Facebook</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="forgot">Forgot Your Password</string>
+    <string name="re_enter">Re-enter Your Password</string>
+    <string name="name">Name</string>
+    <string name="create_an_account">Create An Account</string>
+</resources>
